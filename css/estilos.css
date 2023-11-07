@@ -25,3 +25,22 @@ body{
     text-align: center;
 }
 
+#cabecera{
+    background: #3a60dc ;
+    color : white;
+    margin : 0;
+    padding: 20px;
+    font-weight: bold;
+    font-size: 60px;
+    box-shadow: 10px 5px 5px rgb(43, 2, 2);
+    text-align: left;
+
+}
+
+#cabecera #tagline{
+    color : rgb(205, 50, 50);
+    font-size: 30px;
+    padding: 10px;
+    margin : 0 auto ;
+
+}
