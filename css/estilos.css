@@ -8,7 +8,7 @@ body{
 #container{
     width: 70%;
     padding: 10px;
-    text-align: left;
+    text-align: center;
     border: 1px solid rgb(99, 170, 183);
     margin: 0 auto ;
 }
@@ -21,7 +21,27 @@ body{
 #container p{
 
     font-size: 25px;
-    padding: 10px;
-    border: 1px solid rgb(237, 100, 225);
+    
+    
     text-align: center;
+}
+
+#cabecera{
+    background: #3a60dc ;
+    color : white;
+    margin : 0;
+    padding: 20px;
+    font-weight: bold;
+    font-size: 60px;
+    box-shadow: 10px 5px 5px rgb(43, 2, 2);
+    text-align: left;
+
+}
+
+#cabecera #tagline{
+    color : rgb(179, 205, 50);
+    font-size: 30px;
+    padding: 20px;
+    margin : 0 auto ;
+
 }
