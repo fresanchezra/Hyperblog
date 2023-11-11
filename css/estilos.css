@@ -26,6 +26,7 @@ body{
 }
 
 #cabecera{
+    width: 30%;
     background: #3a60dc ;
     color : white;
     margin : 0;
