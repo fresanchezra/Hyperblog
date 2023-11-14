@@ -1,8 +1,13 @@
 body{
+    background: black ;
+    color : gray;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial;
+    font-size: 16px;
+    margin : 0;
+    padding : 0;
     
-    color: rgb(76, 0, 255);
+   
 }
 
 #container{
@@ -26,8 +31,8 @@ body{
 }
 
 #cabecera{
-    width: 30%;
-    background: #3a60dc ;
+    width: auto;
+    background: #284196 ;
     color : white;
     margin : 0;
     padding: 20px;
@@ -39,9 +44,19 @@ body{
 }
 
 #cabecera #tagline{
-    color : rgb(205, 50, 50);
+    color : rgb(121, 216, 5);
     font-size: 30px;
     padding: 10px;
     margin : 0 auto ;
 
+}
+
+#cabecera #logo {
+    width : 80px;
+    vertical-align : middle;
+}
+
+#post {
+    background : white;
+    padding : 1em;
 }
