@@ -27,7 +27,7 @@ body{
 
 #cabecera{
     width: 30%;
-    background: #3a60dc ;
+    background: #b1dc3a ;
     color : white;
     margin : 0;
     padding: 20px;
@@ -44,4 +44,15 @@ body{
     padding: 10px;
     margin : 0 auto ;
 
+}
+
+#footer{
+    width : 70% ;
+    margin : 0 auto ;
+    background: gray;
+    text-align: center;
+    font-size: large;
+    border : solid 2px rgb(23, 23, 31) ;
+    color: white;
+    padding : 15px;
 }
