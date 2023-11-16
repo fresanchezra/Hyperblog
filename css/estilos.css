@@ -31,13 +31,8 @@ body{
 }
 
 #cabecera{
-<<<<<<< HEAD
     width: auto;
     background: #284196 ;
-=======
-    width: 30%;
-    background: #b1dc3a ;
->>>>>>> footer
     color : white;
     margin : 0;
     padding: 20px;
@@ -49,7 +44,7 @@ body{
 }
 
 #cabecera #tagline{
-    color : rgb(121, 216, 5);
+    color : rgb(237, 239, 246));
     font-size: 30px;
     padding: 10px;
     margin : 0 auto ;
