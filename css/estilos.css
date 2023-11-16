@@ -60,3 +60,25 @@ body{
     background : white;
     padding : 1em;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+#footer{
+    width : 70% ;
+    margin : 0 auto ;
+    background: gray;
+    text-align: center;
+    font-size: large;
+    border : solid 2px rgb(23, 23, 31) ;
+    color: white;
+    padding : 15px;
+}
