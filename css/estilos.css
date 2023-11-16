@@ -31,8 +31,13 @@ body{
 }
 
 #cabecera{
+<<<<<<< HEAD
     width: auto;
     background: #284196 ;
+=======
+    width: 30%;
+    background: #b1dc3a ;
+>>>>>>> footer
     color : white;
     margin : 0;
     padding: 20px;
